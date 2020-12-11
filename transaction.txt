@@ -1,0 +1,60 @@
+***********Transaction Number: 1************
+===========================================
+              Coffee Shop Bill             
+===========================================
+1. Simple Coffee :  Quantity: 1 :  Price: 10
+2. Special Coffee :  Quantity: 2 :  Price: 40
+3. tea :  Quantity: 3 :  Price: 60
+-------------------------------------------
+Grand Total : 110$
+
+ Date & Time: 2020/11/25 01:24:34
+
+ Transaction Method : Card.
+
+ Card Type :Visa.
+-------------------------------------------
+
+
+
+
+
+***********Transaction Number: 1************
+===========================================
+              Coffee Shop Bill             
+===========================================
+1. Simple Coffee :  Quantity: 2 :  Price: 20
+2. tea :  Quantity: 3 :  Price: 60
+-------------------------------------------
+Grand Total : 80$
+
+ Date & Time: 2020/11/25 01:33:16
+
+ Transaction Method : Card.
+
+ Card Type :Master.
+-------------------------------------------
+
+
+
+
+
+***********Transaction Number: 1************
+===========================================
+              Coffee Shop Bill             
+===========================================
+1. Simple Coffee :  Quantity: 3 :  Price: 30
+-------------------------------------------
+Grand Total : 30$
+
+ Date & Time: 2020/12/02 13:55:08
+
+ Transaction Method : Card.
+
+ Card Type :Visa.
+-------------------------------------------
+
+
+
+
+
